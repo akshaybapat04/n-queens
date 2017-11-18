@@ -11,5 +11,4 @@
    return failure
    
    
-   I think this will get stuck in a local minima (it is in my case)
-   Probably need to work on the random number generator 
+Works all right, but need to optimize it further. Need to start from a good approximation of the solution - that'll be the best
