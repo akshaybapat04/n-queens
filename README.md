@@ -11,4 +11,6 @@
    return failure
    
    
-Works all right, but need to optimize it further. Need to start from a good approximation of the solution - that'll be the best
+Works all right, but need to optimize it further. Need to start from a good approximation of the solution - that'll be the best.
+
+Also, for the presentation, let us try to show the polynomial complexity of the solution and say that it's way better than backtracking which is O(2^n )
